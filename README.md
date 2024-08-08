@@ -55,7 +55,7 @@ For frontend
 
 For backed
 ```bash
-    npm run dev
+    npm run start
 
 ```
 
