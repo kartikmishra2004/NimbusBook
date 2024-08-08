@@ -47,6 +47,13 @@ For backend :
 
 4. Start the development servers:
 
+For frontend
+```bash
+    npm run dev
+
+```
+
+For backed
 ```bash
     npm run dev
 
