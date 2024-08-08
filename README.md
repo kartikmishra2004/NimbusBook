@@ -27,13 +27,13 @@ NimbusBook is a cloud-based notes application designed to help you capture, orga
 
 2. Navigate to the project frontend directory:
 
-   For frontend :
+For frontend :
 
 ```bash
     cd Frontend
 ```
 
-    For backend :
+For backend :
 
 ```bash
     cd Server
